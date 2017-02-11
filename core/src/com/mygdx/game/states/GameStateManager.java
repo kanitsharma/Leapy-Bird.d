@@ -21,7 +21,7 @@ public class GameStateManager {
         states.pop().dispose();
     }
     public void setStates(state state){
-        states.pop().dispose();
+        states.pop();
         states.push(state);
     }
     public void update(float dt){
