@@ -1,2 +1,2 @@
-# Leapy-Bird.io
-Flappy Bird recreated using libgdx
+# Leapy-Bird
+Flappy Bird recreated using libgdx(desktop version)
